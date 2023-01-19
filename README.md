@@ -24,5 +24,9 @@ Intrusion Detection in Software Defined Network with 4 different attack categori
 Kaggle URL:
 https://www.kaggle.com/datasets/subhajournal/sdn-intrusion-detection
 
+## Quick Results
+
+![image](https://user-images.githubusercontent.com/57035819/213426627-b2d7b906-ad55-4e5b-a859-eee9ec4b5667.png)
+
 ### Author
 - [honourrable](https://github.com/honourrable)
