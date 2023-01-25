@@ -10,16 +10,16 @@ The aim is to focus deeply on the data, do the Exploratory Data Analysis (EDA) w
 ## Dataset
 Intrusion Detection in Software Defined Network with 4 different attack categories and harmless category (5 classes at total). To mention its size:
 
-•	80 features 
-•	1M+ samples
+* 80 features
+* 1M+ samples
 
 5 Categories are:
 
-•	DDoS
-•	Web Attack - Brute Force
-•	Web Attack - XSS
-•	Web Attack - Sql Injection
-•	Benign (i.e., harmless)
+* DDoS
+* Web Attack - Brute Force
+* Web Attack - XSS
+* Web Attack - Sql Injection
+* Benign (i.e., harmless)
 
 Kaggle URL:
 https://www.kaggle.com/datasets/subhajournal/sdn-intrusion-detection
